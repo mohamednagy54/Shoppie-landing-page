@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Short Sleeve Shirt",
+    "price": 170.00,
+    "image": "./assets/images/product-1.png",
+    "category": "new-arrivals"
+  },
+  {
+    "id": 2,
+    "name": "Dead Sunglasses",
+    "price": 210.00,
+    "image": "./assets/images/product-2.png",
+    "category": "new-arrivals"
+  },
+  {
+    "id": 3,
+    "name": "Studios Trouser",
+    "price": 90.00,
+    "image": "./assets/images/product-3.png",
+    "category": "new-arrivals"
+  },
+  {
+    "id": 4,
+    "name": "Acne Baseball Cap",
+    "price": 80.00,
+    "image": "./assets/images/product-4.png",
+    "category": "featured"
+  },
+  {
+    "id": 5,
+    "name": "Short Sleeve Shirt",
+    "price": 170.00,
+    "image": "./assets/images/product-5.png",
+    "category": "featured"
+  },
+  {
+    "id": 6,
+    "name": "Garcons Parfums",
+    "price": 190.00,
+    "image": "./assets/images/product-6.png",
+    "category": "featured"
+  },
+  {
+    "id": 7,
+    "name": "Salomon Sneaker",
+    "price": 450.00,
+    "image": "./assets/images/product-7.png",
+    "category": "featured"
+  },
+  {
+    "id": 8,
+    "name": "Ribbed Beanie Hat",
+    "price": 120.00,
+    "image": "./assets/images/product-8.png",
+    "category": "featured"
+  },
+  {
+    "id": 9,
+    "name": "Acronym Khaki",
+    "price": 220.00,
+    "image": "./assets/images/product-9.png",
+    "category": "featured"
+  }
+]
